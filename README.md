@@ -37,8 +37,5 @@ This repository manages project activities and action points for the SoilWise Ho
 ## License
 This repository and its contents are private.
 
-## Contributing
-Contributions to improve project management or repository structure are welcome. Follow guidelines in CONTRIBUTING.md.
-
 ## Feedback and Support
 For questions or support related to project management or this repository, contact Radu Giurgiu or designated project contacts.
